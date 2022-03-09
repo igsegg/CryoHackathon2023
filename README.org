@@ -58,4 +58,3 @@ The CryoHackathon is organised by the [[https://igsegg.org/][Early Glaciologists
 Sentinel, Landsat and other imagery is partner of this edition of the
 CryoHackathon.
 
-

@@ -8,7 +8,7 @@
 - [Inter-community Challenges](#inter-community-challenges)
 - [Useful resources](#useful-resources)
 - [Mentors](#mentors)
-- [Organisers](#organisers-)
+- [Contributors](#contributors-)
 - [Partners](#partners)
 
 # CryoHackathon Challenges
@@ -66,7 +66,7 @@ Description, skills and area of expertise
 ## Adrien Wehrlé [@AdrienWehrle](https://github.com/AdrienWehrle)
 Description, skills and area of expertise
 
-# Organisers ✨
+# Contributors ✨
 
 The CryoHackathon is organised by the [Early Glaciologists Group](https://igsegg.org/) committee of the
 [International Glaciological Society](https://www.igsoc.org/) and several EGG friends listed below. 

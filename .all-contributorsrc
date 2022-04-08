@@ -1,5 +1,7 @@
 {
-  "files": ["README.md"],
+  "files": [
+    "README.md"
+  ],
   "imageSize": 100,
   "contributorsPerLine": 7,
   "contributorsSortAlphabetically": false,
@@ -12,6 +14,20 @@
       "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
     }
   },
-  "skipCi": "true",
-  "contributors": []
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "AdrienWehrle",
+      "name": "Adrien Wehrlé ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44843368?v=4",
+      "profile": "https://github.com/AdrienWehrle",
+      "contributions": [
+        "design"
+      ]
+    }
+  ],
+  "projectName": "CryoHackathon2022",
+  "projectOwner": "igsegg",
+  "repoType": "github",
+  "repoHost": "https://github.com"
 }

@@ -66,7 +66,7 @@ Description, skills and area of expertise
 ## Adrien Wehrlé [@AdrienWehrle](https://github.com/AdrienWehrle)
 Description, skills and area of expertise
 
-# Organisers
+# Organisers ✨
 
 The CryoHackathon is organised by the [Early Glaciologists Group](https://igsegg.org/) committee of the
 [International Glaciological Society](https://www.igsoc.org/) and several EGG friends listed below. 

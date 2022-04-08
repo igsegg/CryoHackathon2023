@@ -13,9 +13,10 @@
 
 * CryoHackathon Challenges
 
-I think it's important to say there is no restriction but we give few ideas. I
-thought about three main "themes": 1) study area 2) process and 3) method
-(titles should be improved, but just to give you an idea)
+I think it's important to say there is no restriction but we give few
+ideas. I thought about three main "themes": 1) study area 2) process
+and 3) method (titles should be improved, but just to give you an
+idea)
 
 ** CryoObs 
 
@@ -45,6 +46,12 @@ detection/monitoring (1, 2 and 3)! To me, the point is to guide potential
 undecided people efficiently without putting any constraints.
 
 * Inter-Community Challenges
+
+* Communication
+Communication between the organisers and the participants will
+primarily take place on the [[https://discord.com/channels/824997204921810984/824998700668551178][IGS EGG Discord Forum]], more specifically
+in the #cryohackathon22 channel. Don't hesitate to use it to
+communicate with your team!
 
 * Useful resources
 

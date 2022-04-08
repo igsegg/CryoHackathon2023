@@ -4,19 +4,19 @@
 # CryoHackathon 2022 ❄️🧊🏔️🐧
 
 # Table of Contents
-- [CryoHackathon Challenges](#cryohackathon-challenges)
-  - [Inter-community Challenges](#inter-community-challenges)
-  - [Useful resources](#useful-resources)
-  - [Mentors](#mentors)
-  - [Organisers](#organisers)
-  - [Partners](#partners)
+[CryoHackathon Challenges](#cryohackathon-challenges)
+  [Inter-community Challenges](#inter-community-challenges)
+  [Useful resources](#useful-resources)
+  [Mentors](#mentors)
+  [Organisers](#organisers)
+  [Partners](#partners)
 
 # CryoHackathon Challenges
 
 I think it's important to say there is no restriction but we give few
 ideas. I thought about three main "themes": 1) study area 2) process
 and 3) method (titles should be improved, but just to give you an
-idea)❄️
+idea).
 
 ## CryoObs 
 

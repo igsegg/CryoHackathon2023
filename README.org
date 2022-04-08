@@ -1,13 +1,17 @@
+[[https://igsegg.org/assets/images/logo-420x549.png]]
+[[https://www.sentinel-hub.com/img/sentinel_hub_by_sinergise_logo_black.png]]
+
 * CryoHackathon 2022
 
 * Table of Contents                               :toc_2:noexport:
-- [[#challenges][Challenges]]
+- [[#cryohackathon-challenges][CryoHackathon Challenges]]
+- [[#inter-community-challenges][Inter-community Challenges]]
 - [[#useful-resources][Useful resources]]
 - [[#mentors][Mentors]]
 - [[#organisers][Organisers]]
 - [[#partners][Partners]]
 
-* Challenges
+* CryoHackathon Challenges
 
 I think it's important to say there is no restriction but we give few ideas. I
 thought about three main "themes": 1) study area 2) process and 3) method
@@ -40,11 +44,19 @@ precise process on a given glacier and developing a method for its
 detection/monitoring (1, 2 and 3)! To me, the point is to guide potential
 undecided people efficiently without putting any constraints.
 
+* Inter-Community Challenges
+
 * Useful resources
 
 * Mentors
 
-** Johannes Landmann
+** Johannes Landmann [[https://github.com/jlandmann][@jlandmann]]
+Description, skills and area of expertise
+
+** Amaury Dehecq [[https://github.com/adehecq][@adehecq]]
+Description, skills and area of expertise
+
+** Adrien Wehrlé [[https://github.com/AdrienWehrle][@AdrienWehrle]]
 Description, skills and area of expertise
 
 * Organisers

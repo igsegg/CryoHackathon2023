@@ -8,7 +8,7 @@
 - [Inter-community Challenges](#inter-community-challenges)
 - [Useful resources](#useful-resources)
 - [Mentors](#mentors)
-- [Organisers](#organisers)
+- [Organisers](#organisers-)
 - [Partners](#partners)
 
 # CryoHackathon Challenges

@@ -68,7 +68,8 @@ Description, skills and area of expertise
 # Contributors ✨
 
 The CryoHackathon is organised by the [Early Glaciologists Group](https://igsegg.org/) committee of the
-[International Glaciological Society](https://www.igsoc.org/) and several EGG friends listed below. 
+[International Glaciological Society](https://www.igsoc.org/) and several EGG friends. All contributors
+are listed below following the [all-contributors](https://allcontributors.org) specification.
 
  <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->

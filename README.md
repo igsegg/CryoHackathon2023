@@ -10,14 +10,14 @@
 - [Contributors](#contributors-)
 - [Partners](#partners)
 
-# CryoHackathon Challenges
+# CryoHackathon Challenges 📢
 
 I think it's important to say there is no restriction but we give few
 ideas. I thought about three main "themes": 1) study area 2) process
 and 3) method (titles should be improved, but just to give you an
 idea).
 
-## CryoObs 
+## CryoObs 🧐
 
 pick a glacier or any frozen area (sea ice, snow, permafrost..), maybe one that
 hasn't been studied a lot, and study how it has been changing recently (or less
@@ -26,12 +26,12 @@ etc.. but IMO it's important to say that #no# coding experience is required. It
 can be manual work (outlining etc..) or even a report/literature review without
 any coding involved!
 
-## CryoKey
+## CryoKey 🗘
 
 Maybe some participants have a process they want to study in mind. At the
 global, region, glacier scale, whatever they want! (Just have fun!!)
 
-## CryoTech
+## CryoTech 💾
 
 Maybe some participants want to develop a method to detect features, the
 occurrence of a process and again at different scales.
@@ -44,17 +44,17 @@ precise process on a given glacier and developing a method for its
 detection/monitoring (1, 2 and 3)! To me, the point is to guide potential
 undecided people efficiently without putting any constraints.
 
-# Inter-Community Challenges
+# Inter-Community Challenges 📢
 
-# Communication
+# Communication 💬
 Communication between the organisers and the participants will
 primarily take place on the [IGS EGG Discord Forum](https://discord.com/channels/824997204921810984/824998700668551178), more specifically
 in the #cryohackathon22 channel. Don't hesitate to use it to
 communicate with your team!
 
-# Useful resources
+# Useful resources ℹ️
 
-# Mentors
+# Mentors 👨‍💻👩‍💻
 
 ## Johannes Landmann [@jlandmann](https://github.com/jlandmann)
 Description, skills and area of expertise

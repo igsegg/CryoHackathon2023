@@ -68,8 +68,8 @@ Description, skills and area of expertise
 
 * Organisers
 
-The CryoHackathon is organised by the [[https://igsegg.org/][Early Glaciologists Group]] of the
-[[https://www.igsoc.org/][International Glaciological Society]].
+The CryoHackathon is organised by the [[https://igsegg.org/][Early Glaciologists Group]] committee of the
+[[https://www.igsoc.org/][International Glaciological Society]] and several EGG friends listed below. 
 
 * Partners
 

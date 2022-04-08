@@ -24,6 +24,15 @@
       "contributions": [
         "design"
       ]
+    },
+    {
+      "login": "jlandmann",
+      "name": "Johannes Landmann",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10832560?v=4",
+      "profile": "https://github.com/jlandmann",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "projectName": "CryoHackathon2022",

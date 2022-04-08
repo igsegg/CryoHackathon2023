@@ -72,8 +72,20 @@ The CryoHackathon is organised by the [Early Glaciologists Group](https://igsegg
 [International Glaciological Society](https://www.igsoc.org/) and several EGG friends listed below. 
 
  <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
- <!-- ALL-CONTRIBUTORS-LIST:END -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/AdrienWehrle"><img src="https://avatars.githubusercontent.com/u/44843368?v=4" width="100px;" alt=""/><br /><sub><b>Adrien Wehrlé </b></sub></a></td>
+    <td align="center"><a href="https://github.com/jlandmann"><img src="https://avatars.githubusercontent.com/u/10832560?v=4" width="100px;" alt=""/><br /><sub><b>Johannes Landmann</b></sub></a></td>
+    <td align="center"><a href="https://github.com/pmlefeuvre"><img src="https://avatars.githubusercontent.com/u/10058951?v=4" width="100px;" alt=""/><br /><sub><b>PiM</b></sub></a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 # Partners
 

@@ -5,7 +5,7 @@
 # Table of Contents
 - [CryoHackathon Challenges 📢](#cryohackathon-challenges-)
 - [Inter-community Challenges 📢](#inter-community-challenges-)
-- [Useful resources ℹ️](#useful-resources-)
+- [Useful resources ℹ️](#useful-resources-ℹ%EF%B8%8F)
 - [Mentors 👨‍💻👩‍💻](#mentors-)
 - [Contributors ✨](#contributors-)
 - [Partners 🥳](#partners-)

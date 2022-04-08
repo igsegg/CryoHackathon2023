@@ -1,5 +1,4 @@
-![igs-egg](https://github.com/igsegg/CryoHackathon2022/blob/main/data/egg-logo.png)
-![igs-egg](https://github.com/igsegg/CryoHackathon2022/blob/main/data/sentinelhub-logo.png)
+<img src="https://github.com/igsegg/CryoHackathon2022/blob/main/data/egg-logo.png" alt="igs-egg-logo" height="150"/> <img src="https://github.com/igsegg/CryoHackathon2022/blob/main/data/sentinelhub-logo.png" alt="sentinelhub-logo" height="150"/>
 
 # CryoHackathon 2022 ❄️🧊🏔️🐧
 

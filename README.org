@@ -1,3 +1,6 @@
+[[https://igsegg.org/assets/images/logo-420x549.png]]
+[[https://www.sentinel-hub.com/img/sentinel_hub_by_sinergise_logo_black.png]]
+
 * CryoHackathon 2022
 
 * Table of Contents                               :toc_2:noexport:

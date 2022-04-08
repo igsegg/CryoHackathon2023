@@ -79,6 +79,7 @@ The CryoHackathon is organised by the [Early Glaciologists Group](https://igsegg
     <td align="center"><a href="https://github.com/AdrienWehrle"><img src="https://avatars.githubusercontent.com/u/44843368?v=4" width="100px;" alt=""/><br /><sub><b>Adrien Wehrlé </b></sub></a></td>
     <td align="center"><a href="https://github.com/jlandmann"><img src="https://avatars.githubusercontent.com/u/10832560?v=4" width="100px;" alt=""/><br /><sub><b>Johannes Landmann</b></sub></a></td>
     <td align="center"><a href="https://github.com/pmlefeuvre"><img src="https://avatars.githubusercontent.com/u/10058951?v=4" width="100px;" alt=""/><br /><sub><b>PiM</b></sub></a></td>
+    <td align="center"><a href="http://www.williamharcourt.co.uk"><img src="https://avatars.githubusercontent.com/u/48527570?v=4" width="100px;" alt=""/><br /><sub><b>William Harcourt</b></sub></a></td>
   </tr>
 </table>
 

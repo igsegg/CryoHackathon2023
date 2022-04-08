@@ -1,7 +1,8 @@
 * CryoHackathon 2022
 
 * Table of Contents                               :toc_2:noexport:
-- [[#challenges][Challenges]]
+- [[#cryohackathon-challenges][CryoHackathon Challenges]]
+- [[#inter-community-challenges][Inter-community Challenges]]
 - [[#useful-resources][Useful resources]]
 - [[#mentors][Mentors]]
 - [[#organisers][Organisers]]

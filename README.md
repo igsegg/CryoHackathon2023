@@ -3,12 +3,12 @@
 # CryoHackathon 2022 ❄️🧊🏔️🐧
 
 # Table of Contents
-- [CryoHackathon Challenges](#cryohackathon-challenges)
-- [Inter-community Challenges](#inter-community-challenges)
-- [Useful resources](#useful-resources)
-- [Mentors](#mentors)
-- [Contributors](#contributors-)
-- [Partners](#partners)
+- [CryoHackathon Challenges 📢](#cryohackathon-challenges-)
+- [Inter-community Challenges 📢](#inter-community-challenges-)
+- [Useful resources ℹ️](#useful-resources-)
+- [Mentors 👨‍💻👩‍💻](#mentors-)
+- [Contributors ✨](#contributors-)
+- [Partners 🥳](#partners-)
 
 # CryoHackathon Challenges 📢
 
@@ -87,7 +87,7 @@ The CryoHackathon is organised by the [Early Glaciologists Group](https://igsegg
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-# Partners
+# Partners 🥳
 
 [SentinelHub](https://www.sentinel-hub.com/), an award winning satellite imagery service, cloud data driver to
 Sentinel, Landsat and other imagery is partner of this edition of the

@@ -57,23 +57,23 @@ communicate with your team!
 
 # Mentors
 
-## Johannes Landmann [[https://github.com/jlandmann][@jlandmann]]
+## Johannes Landmann [@jlandmann](https://github.com/jlandmann)
 Description, skills and area of expertise
 
-## Amaury Dehecq [[https://github.com/adehecq][@adehecq]]
+## Amaury Dehecq [@adehecq](https://github.com/adehecq)
 Description, skills and area of expertise
 
-## Adrien Wehrlé [[https://github.com/AdrienWehrle][@AdrienWehrle]]
+## Adrien Wehrlé [@AdrienWehrle](https://github.com/AdrienWehrle)
 Description, skills and area of expertise
 
 # Organisers
 
-The CryoHackathon is organised by the [[https://igsegg.org/][Early Glaciologists Group]] committee of the
-[[https://www.igsoc.org/][International Glaciological Society]] and several EGG friends listed below. 
+The CryoHackathon is organised by the [Early Glaciologists Group](https://igsegg.org/) committee of the
+[International Glaciological Society](https://www.igsoc.org/) and several EGG friends listed below. 
 
 # Partners
 
-[[https://www.sentinel-hub.com/][SentinelHub]], an award winning satellite imagery service, cloud data driver to
+[SentinelHub](https://www.sentinel-hub.com/), an award winning satellite imagery service, cloud data driver to
 Sentinel, Landsat and other imagery is partner of this edition of the
 CryoHackathon.
 

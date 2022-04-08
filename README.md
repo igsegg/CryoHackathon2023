@@ -49,7 +49,7 @@ undecided people efficiently without putting any constraints.
 
 # Communication
 Communication between the organisers and the participants will
-primarily take place on the [[https://discord.com/channels/824997204921810984/824998700668551178][IGS EGG Discord Forum]], more specifically
+primarily take place on the [IGS EGG Discord Forum](https://discord.com/channels/824997204921810984/824998700668551178), more specifically
 in the #cryohackathon22 channel. Don't hesitate to use it to
 communicate with your team!
 

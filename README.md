@@ -3,13 +3,13 @@
 
 # CryoHackathon 2022 ❄️🧊🏔️🐧
 
-# Table of Contents                               :toc_2:noexport:
+# Table of Contents
 - [CryoHackathon Challenges](#cryohackathon-challenges)
-- [[#inter-community-challenges][Inter-community Challenges]]
-- [[#useful-resources][Useful resources]]
-- [[#mentors][Mentors]]
-- [[#organisers][Organisers]]
-- [[#partners][Partners]]
+  - [Inter-community Challenges](#inter-community-challenges)
+  - [Useful resources](#useful-resources)
+  - [Mentors](#mentors)
+  - [Organisers](#organisers)
+  - [Partners](#partners)
 
 # CryoHackathon Challenges
 

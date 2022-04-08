@@ -71,6 +71,10 @@ Description, skills and area of expertise
 The CryoHackathon is organised by the [Early Glaciologists Group](https://igsegg.org/) committee of the
 [International Glaciological Society](https://www.igsoc.org/) and several EGG friends listed below. 
 
+ <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+ <!-- ALL-CONTRIBUTORS-LIST:END -->
+
 # Partners
 
 [SentinelHub](https://www.sentinel-hub.com/), an award winning satellite imagery service, cloud data driver to

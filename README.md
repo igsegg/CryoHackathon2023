@@ -2,13 +2,45 @@
 
 # CryoHackathon 2022 ❄️🧊🏔️🐧
 
+Welcome to the first edition of the CryoHackathon organised by the Early Career Glaciologist Group (EGG) of the International Glaciological Society (IGS) from September 15th to 17th 2022! :partying_face: :partying_face:
+
+The goal of this event is first for all participants to have fun collaborating together on exciting projects linked to the cryosphere during an enjoyeable weekend! Anyone is more than welcome to participate, and no coding experience is required! 😃
+
+If you are not registered yet and would like to participate, don't hesitate to [fill this form](google.com)! :writing_hand:
+
 # Table of Contents
+- [Format :computer:](#format-computer)
+- [Schedule :calendar:](#schedule-calendar)
 - [CryoHackathon Challenges 📢](#cryohackathon-challenges-)
 - [Inter-community Challenges 📢](#inter-community-challenges-)
 - [Useful resources ℹ️](#useful-resources-ℹ%EF%B8%8F)
 - [Mentors 👨‍💻👩‍💻](#mentors-)
 - [Contributors ✨](#contributors-)
 - [Partners 🥳](#partners-)
+
+# Format :computer:
+
+The format is very simple! :nerd_face: 
+
+Teams from 1 to 5 participants will work on a cryosphere-related project of their choice during this CryoHackathon! This project can be buit from scratch, inspired from the list of ideas listed further below, picked within existing projects or even as part of a course project! They can basically choose to work on anything as long as there is a slim link to the cryosphere! Again, **the primary goal is to have fun!**
+
+# Schedule :calendar:
+
+- **August 15th 2022** Opening of the CryoHackathon Discord channel where participants can meet and form teams!
+
+- **September 15th** 
+  - **4:00pm UTC** Lauch of the CryoHackathon 2022, kickoff presentation by the organising team
+  - **4:30pm UTC** Presentation by the Sentinel Hub team, partner of this event
+  - **5:00pm UTC** Final team building and start of the projects!
+
+- **September 16th** 
+  - **10:00am UTC** Coffee break with the mentors and the organising team for those who could use some extra motivation, help or simply would like to change their mind for a moment!
+
+- **September 17th**
+  - **4:00pm UTC** Closing ceremony of the Cryohackathon 2022!
+  - **4:30pm UTC** Project presentations
+  - **6:00pm UTC** Prizes awarding
+
 
 # CryoHackathon Challenges 📢
 
@@ -55,6 +87,8 @@ communicate with your team!
 # Useful resources ℹ️
 
 # Mentors 👨‍💻👩‍💻
+
+We formed an awesome team of mentors who will do their best to help you as much as possible for your project if you feel the need for it! Don't hesitate to contact them before, during (and even after!) the Hackathon! They are here to help and possibly give you an outside perspective!
 
 ## Johannes Landmann [@jlandmann](https://github.com/jlandmann)
 Description, skills and area of expertise

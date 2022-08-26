@@ -2,9 +2,9 @@
 
 # CryoHackathon 2022 ❄️🧊🏔️🐧
 
-Welcome to the first edition of the CryoHackathon organised by the Early Career Glaciologist Group (EGG) of the International Glaciological Society (IGS) from September 15th to 17th 2022! :partying_face: :partying_face:
+Welcome to the first edition of the CryoHackathon organised by the Early Career Glaciologist Group (EGG) of the International Glaciological Society (IGS) from February 17th to 19th 2022! :partying_face: :partying_face:
 
-The goal of this event is first for all participants to have fun collaborating together on exciting projects linked to the cryosphere during an enjoyeable weekend! Anyone is more than welcome to participate, and no coding experience is required! 😃
+The goal of this event is first for all participants to have fun collaborating together on exciting projects linked to the cryosphere during a nice weekend! Anyone is more than welcome to participate, and no coding experience is required! 😃
 
 If you are not registered yet and would like to participate, don't hesitate to [fill this form](google.com)! :writing_hand:
 
@@ -22,21 +22,21 @@ If you are not registered yet and would like to participate, don't hesitate to [
 
 The format is very simple! :nerd_face: 
 
-Teams from 1 to 5 participants will work on a cryosphere-related project of their choice during this CryoHackathon! This project can be buit from scratch, inspired from the list of ideas listed further below, picked within existing projects or even as part of a course project! They can basically choose to work on anything as long as there is a slim link to the cryosphere! Again, **the primary goal is to have fun!**
+Teams from 1 to 5 participants will work on a cryosphere-related project of their choice during this CryoHackathon! This project can be buit from scratch, inspired from the pool of ideas listed further below, picked within existing projects or even as part of a course project! You can basically choose to work on anything as long as there is a slim link to the cryosphere! Again, **the primary goal is for everyone to have fun in a nice and inclusive atmosphere!** 😃
 
 # Schedule :calendar:
 
-- **August 15th 2022** Opening of the CryoHackathon Discord channel where participants can meet and form teams!
+- **January 17th 2022** Opening of the CryoHackathon Discord channel where participants can meet and form teams!
 
-- **September 15th** 
+- **September 17th** 
   - **4:00pm UTC** Lauch of the CryoHackathon 2022, kickoff presentation by the organising team
   - **4:30pm UTC** Presentation by the Sentinel Hub team, partner of this event
   - **5:00pm UTC** Final team building and start of the projects!
 
-- **September 16th** 
+- **September 18th** 
   - **10:00am UTC** Coffee break with the mentors and the organising team for those who could use some extra motivation, help or simply would like to change their mind for a moment!
 
-- **September 17th**
+- **September 19th**
   - **4:00pm UTC** Closing ceremony of the Cryohackathon 2022!
   - **4:30pm UTC** Project presentations
   - **6:00pm UTC** Prizes awarding
@@ -44,51 +44,39 @@ Teams from 1 to 5 participants will work on a cryosphere-related project of thei
 
 # CryoHackathon Challenges 📢
 
-I think it's important to say there is no restriction but we give few
-ideas. I thought about three main "themes": 1) study area 2) process
-and 3) method (titles should be improved, but just to give you an
-idea).
+An option is to go for one of the three challenges listed below that
+we created for this Hackathon! Those are only ideas, they can be starting points for your own ideas and can easily all three be merged into one if you feel like it!
 
 ## CryoObs 🧐
 
-pick a glacier or any frozen area (sea ice, snow, permafrost..), maybe one that
-hasn't been studied a lot, and study how it has been changing recently (or less
-recently). Kind of a case study. Could be done with reanalyses, sat data,
-etc.. but IMO it's important to say that #no# coding experience is required. It
-can be manual work (outlining etc..) or even a report/literature review without
-any coding involved!
+Pick the frozen area of your choice (glacier ice, snow, sea ice, permafrost...), and study how it is evolving through time! This could be a study area you particularly like, one you're currently studying, always wanted to or realized it's hasn't really been investigated in the past... Just pick the one you like! 😃  For your case study, you could then use a variety of data sets from satellite data to model results and reanalyses! Here again, no coding experience is required: you could decide to manually outline and/or track features, or even go for a report/literature review on the different studies and associated knowledge gaps in this area!
 
 ## CryoKey 🗘
 
-Maybe some participants have a process they want to study in mind. At the
-global, region, glacier scale, whatever they want! (Just have fun!!)
+You've always been interested in this one process but never had time/the opportunity to study it in detail? Here's your chance! You can develop your own small research project focused on process understanding and see how far you get during the Hackathon! Interesting fact is that many small projects initiated during hackathons end up way bigger after the event and can sometimes even be the starting point for large collaborations, this could be the case for yours! 
 
 ## CryoTech 💾
 
-Maybe some participants want to develop a method to detect features, the
-occurrence of a process and again at different scales.
+You're into algorithm, method and/or software development and want to use your skills to create a new tool applied to cryospheric sciences! This could be a detection algorithm, a graphical user interface, a model (or anything else!)... Just get started and have fun! 
 
-As you can see those three ideas are only here to give some starting points so
-the participants who don't have a clear idea yet don't feel lost (although those
-ideas should be nicely presented, here are just notes at the moment). Also, they
-are closely linked to each other and can be fully coupled. E.g. focusing on a
-precise process on a given glacier and developing a method for its
-detection/monitoring (1, 2 and 3)! To me, the point is to guide potential
-undecided people efficiently without putting any constraints.
 
 # Inter-Community Challenges 📢
 
+## [The Polar EO database](https://github.com/APECS-Earth-Observation/Polar-EO-Database)
+
+The remote sensing working group of the Association of Polar Early Career Scientists (APECS) is currently developing a database with the aim of making the access, download and overall use of satellite data easier! To this end, they are currently gathering info about all satellites used in polar sciences and are building this very useful resource! You could contribute to this project by adding new satellites and/or missing information!
+
 # Communication 💬
-Communication between the organisers and the participants will
+Communication between the organisers, the mentors and the participants will
 primarily take place on the [IGS EGG Discord Forum](https://discord.com/channels/824997204921810984/824998700668551178), more specifically
 in the #cryohackathon22 channel. Don't hesitate to use it to
-communicate with your team!
+communicate with your team too!
 
 # Useful resources ℹ️
 
 # Mentors 👨‍💻👩‍💻
 
-We formed an awesome team of mentors who will do their best to help you as much as possible for your project if you feel the need for it! Don't hesitate to contact them before, during (and even after!) the Hackathon! They are here to help and possibly give you an outside perspective!
+We formed an awesome team of mentors who will do their best to help you as much as possible in your project if you feel the need for it! Don't hesitate to contact them before, during (and even after!) the Hackathon! They are here to help and possibly give you an outside perspective on your ideas!
 
 ## Johannes Landmann [@jlandmann](https://github.com/jlandmann)
 Description, skills and area of expertise

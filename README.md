@@ -1,10 +1,10 @@
 <img src="https://github.com/igsegg/CryoHackathon2022/blob/main/data/egg-logo.png" alt="igs-egg-logo" height="130"/> <img src="https://github.com/igsegg/CryoHackathon2022/blob/main/data/sentinelhub-logo.png" alt="sentinelhub-logo" height="130"/>
 
-# CryoHackathon 2022 ❄️🧊🏔️🐧
+# CryoHackathon 2023 ❄️🧊🏔️🐧
 
 Welcome to the first edition of the CryoHackathon organised by the Early Career Glaciologist Group (EGG) of the International Glaciological Society (IGS) from February 17th to 19th 2022! :partying_face: :partying_face:
 
-The goal of this event is first for all participants to have fun collaborating together on exciting projects linked to the cryosphere during a nice weekend! Anyone is more than welcome to participate, and no coding experience is required! 😃
+The goal of this event is first for all participants to have fun collaborating together on exciting projects linked to the cryosphere during a exciting weekend, in a nice and inclusive atmosphere! Anyone is more than welcome to participate, and no coding experience is required! 😃
 
 If you are not registered yet and would like to participate, don't hesitate to [fill this form](https://www.google.com)! :writing_hand:
 
@@ -14,7 +14,7 @@ If you are not registered yet and would like to participate, don't hesitate to [
 - [CryoHackathon Challenges 📢](#cryohackathon-challenges-)
 - [Inter-community Challenges 📢](#inter-community-challenges-)
 - [Useful resources ℹ️](#useful-resources-ℹ%EF%B8%8F)
-- [Mentors 👨‍💻👩‍💻](#mentors-)
+- [Mentors 👨‍💻👩🏽‍💻👩‍💻👨🏽‍💻](#mentors-)
 - [Contributors ✨](#contributors-)
 - [Partners 🥳](#partners-)
 
@@ -28,15 +28,16 @@ Teams from 1 to 5 participants will work on a cryosphere-related project of thei
 
 - **January 17th 2022** Opening of the CryoHackathon Discord channel where participants can meet and form teams!
 
-- **September 17th** 
+- **Friday September 17th** 
   - **4:00pm UTC** Lauch of the CryoHackathon 2022, kickoff presentation by the organising team
   - **4:30pm UTC** Presentation by the Sentinel Hub team, partner of this event
   - **5:00pm UTC** Final team building and start of the projects!
 
-- **September 18th** 
+- **Saturday September 18th** 
   - **10:00am UTC** Coffee break with the mentors and the organising team for those who could use some extra motivation, help or simply would like to change their mind for a moment!
+  - **04:00pm UTC** Another break with the team to get boosted for the Saturday night hack!
 
-- **September 19th**
+- **Sunday September 19th**
   - **4:00pm UTC** Closing ceremony of the Cryohackathon 2022!
   - **4:30pm UTC** Project presentations
   - **6:00pm UTC** Prizes awarding
@@ -68,15 +69,33 @@ The remote sensing working group of the Association of Polar Early Career Scient
 
 # Communication 💬
 Communication between the organisers, the mentors and the participants will
-primarily take place on the [IGS EGG Discord Forum](https://discord.com/channels/824997204921810984/824998700668551178), more specifically
-in the #cryohackathon22 channel. Don't hesitate to use it to
+primarily take place on the [IGS EGG Discord Channel](https://discord.com/channels/824997204921810984/824998700668551178), more specifically
+in the `#cryohackathon22` channel. Don't hesitate to use it to
 communicate with your team too!
 
 # Useful resources ℹ️
 
-# Mentors 👨‍💻👩‍💻
+- [My first Hackathon](https://towardsdatascience.com/my-first-hackathon-3f6d5fbf7d91)
 
-We formed an awesome team of mentors who will do their best to help you as much as possible in your project if you feel the need for it! Don't hesitate to contact them before, during (and even after!) the Hackathon! They are here to help and possibly give you an outside perspective on your ideas!
+- [What is Github?](https://www.youtube.com/watch?v=w3jLJU7DT5E&ab_channel=GitHub)
+
+- [Create Beautiful Satellite Images with EO Browser](https://www.youtube.com/watch?v=02Xbbu1PHdg&ab_channel=SentinelHub)
+
+- [Sentinel Hub resources for participants of the CryoHackathon](https://www.sentinel-hub.com/dragonhack2020)
+
+# Useful tools 🛠️
+
+Sentinel Hub, our awesome partner for this first edition of the CryoHackathon, is kindly prodiving **a free Sentinel Hub account to all participants during the Hackathon!** :partying_face: :partying_face:
+
+- [Sentinel Hub EO Browser](https://apps.sentinel-hub.com/eo-browser): an efficient and easy-to-use graphical user interface to browse through Sentinel, Landsat and many other satellite data sets. Images over your study area can also be downloaded directly on this platform.
+
+- [Earthspy](https://github.com/AdrienWehrle/earthspy): A Python wrapper package to make the download of satellite data easier. In 3 lines of Python code, you can download data from your small study area on a specific date to worldwide data sets throughout the satellite era!
+
+- [Climate Copernicus Data Store](https://cds.climate.copernicus.eu/#!/home): A web interface to easily download widely used data sets such as ERA5, ESA land cover products and many satellite-derived !
+
+# Mentors 👨‍💻👩🏽‍💻👩‍💻👨🏽‍💻
+
+We created an awesome team of mentors who will do their best to help you as much as possible in your project if you feel the need for it! Don't hesitate to contact them before, during (and even after!) the Hackathon! They are here to help and possibly give you an outside perspective on your ideas!
 
 ## Johannes Landmann [@jlandmann](https://github.com/jlandmann)
 Description, skills and area of expertise
@@ -85,7 +104,7 @@ Description, skills and area of expertise
 Description, skills and area of expertise
 
 ## Adrien Wehrlé [@AdrienWehrle](https://github.com/AdrienWehrle)
-Description, skills and area of expertise
+Adrien is a PhD student at the University of Zurich, Switzerland where he's studying the dynamics of Greenland outlet glaciers as well as the evolution of the surface process across the ice sheet. He's into anything coding, software and algorithm development data science, machine learning and so on! He's also the developer of [Earthspy](https://github.com/AdrienWehrle/earthspy) so don't hesitate to ask him any question if you're considering using it!
 
 # Contributors ✨
 
@@ -116,3 +135,7 @@ are listed below following the [all-contributors](https://allcontributors.org) s
 Sentinel, Landsat and other imagery is partner of this edition of the
 CryoHackathon.
 
+# Prizes 🏆
+
+- First prize: a one-year subscription to Sentinel Hub services (Entreprise S, worth 5000 euros)!
+- Second prize: a 200 euro grant to attend the Cryosphere conference of your choice!

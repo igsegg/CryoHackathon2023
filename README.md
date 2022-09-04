@@ -28,16 +28,16 @@ Teams from 1 to 5 participants will work on a cryosphere-related project of thei
 
 - **January 17th 2022** Opening of the CryoHackathon Discord channel where participants can meet and form teams!
 
-- **Friday September 17th** 
+- **Friday February 17th** 
   - **4:00pm UTC** Lauch of the CryoHackathon 2022, kickoff presentation by the organising team
   - **4:30pm UTC** Presentation by the Sentinel Hub team, partner of this event
   - **5:00pm UTC** Final team building and start of the projects!
 
-- **Saturday September 18th** 
+- **Saturday February 18th** 
   - **10:00am UTC** Coffee break with the mentors and the organising team for those who could use some extra motivation, help or simply would like to change their mind for a moment!
   - **04:00pm UTC** Another break with the team to get boosted for the Saturday night hack!
 
-- **Sunday September 19th**
+- **Sunday February 19th**
   - **4:00pm UTC** Closing ceremony of the Cryohackathon 2022!
   - **4:30pm UTC** Project presentations
   - **6:00pm UTC** Prizes awarding

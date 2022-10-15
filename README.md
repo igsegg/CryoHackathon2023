@@ -2,9 +2,9 @@
 
 # CryoHackathon 2023 ❄️🧊🏔️🐧
 
-Welcome to the first edition of the CryoHackathon organised by the Early Career Glaciologist Group (EGG) of the International Glaciological Society (IGS), which will run from the 17th - 19th February 2022! :partying_face: :partying_face:
+Welcome to the first edition of the CryoHackathon organised by the Early Career Glaciologist Group (EGG) of the International Glaciological Society (IGS), which will run from the 17th - 19th February 2022! :partying_face:: partying_face:
 
-The overall aim of this event is for all participants to have fun across an exciting weekend, collaborating together on exciting projects linked to the cryosphere, in a nice and inclusive atmosphere! Anyone is more than welcome to participate, and no coding experience is required! 😃
+The overall aim of this event is for all participants to have fun across an exciting weekend, collaborating together on exciting projects linked to the cryosphere, in a nice, inclusive and respectful atmosphere! Anyone is more than welcome to participate, and **no coding experience is required**! 😃
 
 If you are not registered yet and would like to participate, don't hesitate to [fill this form](https://www.google.com)! :writing_hand:
 
@@ -22,7 +22,7 @@ If you are not registered yet and would like to participate, don't hesitate to [
 
 The format is very simple! :nerd_face: 
 
-Teams of 1 to 5 participants will work on a cryosphere-related project of their choice: This project can be built from scratch, inspired from the pool of ideas listed further below, based around existing projects or even as part of a course project! You can basically choose to work on anything as long as there is a slim link to the cryosphere! Again, **the primary goal is for everyone to have fun in a nice and inclusive atmosphere!** 😃😃😃😃😃😃😃😃 
+Teams of 1 to 5 participants will work on a cryosphere-related project of their choice: This project can be built from scratch, inspired from the pool of ideas listed further below, based around existing projects or even as part of a course project! You can basically choose to work on anything as long as there is a slim link to the cryosphere! Again, **the primary goal is for everyone to have fun in a nice, respectful and inclusive atmosphere!** 😃😃😃
 
 # Schedule :calendar:
 
@@ -49,22 +49,22 @@ One option that groups have when it comes to deciding their own projects is to c
 
 ## CryoObs 🧐
 
-Pick the frozen area of your choice (glacier ice, snow, sea ice, permafrost...), and study how it is evolving through time! This could be an area or region you particularly like, one you're currently studying, one you’ve always wanted to, or even one that you realized hasn't really been investigated in the past... Just pick the one you like! 😃 For your chosen case study, you can then use a variety of data sets, including satellite data and model results to undertaken your (re)analysis! Again, no coding experience is required: you could decide to manually outline and/or track features, or even go for a report/literature review on the different studies and associated knowledge gaps in this area!
+Pick the frozen area of your choice (glacier ice, snow, sea ice, permafrost...), and study how it is evolving through time! This could be an area or region you particularly like, one you're currently studying, one you’ve always wanted to, or even one that you realized hasn't really been investigated in the past... Just pick the one you like! 😃 For your chosen case study, you can then use a variety of data sets, including satellite data (e.g. provided by Sentinel Hub, the partner of this Hackathon) and model results to undertaken your (re)analysis! Again, no coding experience is required: you could decide to manually outline and/or track features, or even go for a report/literature review on the different studies and associated knowledge gaps in this area!
 
 ## CryoKey 🗘
 
-Have you always been interested in this one process, but never had the time/opportunity to study it in detail? Well now here's your chance! For this Cryo Challenge, you could develop your own small research project focused on understanding the different processes, and see how far you get during the Hackathon! Interestingly, many small projects that are initiated during hackathons end up way bigger after the event and can sometimes even be the starting point for large collaborations, and this could be the case for yours! 
+Have you always been interested in this one process, but never had the time/opportunity to study it in detail? Well now here's your chance! For this Cryo Challenge, you could develop your own small research project focused on understanding the different processes, and see how far you get during the Hackathon! Interestingly, many small projects that are initiated during hackathons end up way bigger after the event and can sometimes even be the starting point for large collaborations, and this could be the case for yours!
 
 ## CryoTech 💾
 
-So, you're into algorithms, methods and/or software development, and want to use your skills to create a new tool which can be applied to cryospheric sciences? This could be a detection algorithm, a graphical user interface, a model (or anything else!)... Just get started and have fun! 
+So, you're into algorithms, methods and/or software development, and want to use your skills to create a new tool which can be applied to cryospheric sciences? This could be a detection algorithm, a graphical user interface, a model (or anything else!)... Just get started and have fun! :partying_face:
 
 
 # Inter-Community Challenges 📢
 
 ## [The Polar EO database](https://github.com/APECS-Earth-Observation/Polar-EO-Database)
 
-The remote sensing working group of the Association of Polar Early Career Scientists (APECS) is currently developing a database with the aim of making it easier to access, download and use satellite data! To this end, they are currently gathering information about all the satellites currently being used in polar sciences to aid in building this very useful resource! You could contribute to this project by adding new satellites and/or missing information!
+The remote sensing working group of the Association of Polar Early Career Scientists (APECS) is currently developing a database with the aim of making it easier to access, download and use satellite data! To this end, the team is currently gathering information about all the satellites currently being used in polar sciences to aid in building this very useful resource! You could contribute to this project by adding new satellites and/or missing information!
 
 # Communication 💬
 Communication between the organisers, the mentors and the participants will
@@ -90,7 +90,7 @@ Sentinel Hub, our awesome partner for this first edition of the CryoHackathon, a
 
 - [Earthspy](https://github.com/AdrienWehrle/earthspy): A Python wrapper package to make the download of satellite data easier. In 3 lines of Python code, you can download data from your small study area on a specific date to worldwide data sets throughout the satellite era!
 
-- [Climate Copernicus Data Store](https://cds.climate.copernicus.eu/#!/home): A web interface to easily download many widely-used data sets such as ERA5, ESA land cover products, as well as many satellite-derived products !
+- [Climate Copernicus Data Store](https://cds.climate.copernicus.eu/#!/home): A web interface to easily download many widely-used data sets such as ERA5, ESA land cover products, as well as many satellite-derived products!
 
 # Mentors 👨‍💻👩🏽‍💻👩‍💻👨🏽‍💻
 
@@ -103,7 +103,7 @@ Description, skills and area of expertise
 Description, skills and area of expertise
 
 ## Adrien Wehrlé [@AdrienWehrle](https://github.com/AdrienWehrle)
-Adrien is a PhD student at the University of Zurich, Switzerland where he's studying the dynamics of Greenland outlet glaciers as well as the evolution of the surface process across the ice sheet. He's into anything coding, software and algorithm development data science, machine learning and so on! He's also the developer of [Earthspy](https://github.com/AdrienWehrle/earthspy) so don't hesitate to ask him any question if you're considering using it!
+Adrien is a PhD student at the University of Zurich, Switzerland where he's studying the dynamics of Greenland outlet glaciers as well as the evolution of the surface process across the ice sheet. He's into anything coding, software and algorithm development, data science and earth observation! He's also the developer of [Earthspy](https://github.com/AdrienWehrle/earthspy) so don't hesitate to ask him any question if you're considering using it!
 
 # Contributors ✨
 

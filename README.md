@@ -14,7 +14,7 @@ If you are not registered yet and would like to participate, don't hesitate to [
 - [CryoHackathon Challenges 📢](#cryohackathon-challenges-)
 - [Inter-community Challenges 📢](#inter-community-challenges-)
 - [Useful resources ℹ️](#useful-resources-ℹ%EF%B8%8F)
-- [Mentors 👨‍💻👩🏽‍💻👩‍💻👨🏽‍💻](#mentors-)
+- [Support team 👨‍💻👩🏽‍💻👩‍💻👨🏽‍💻](#support-team-)
 - [Contributors ✨](#contributors-)
 - [Partners 🥳](#partners-)
 
@@ -92,12 +92,17 @@ Sentinel Hub, our awesome partner for this first edition of the CryoHackathon, a
 
 - [Climate Copernicus Data Store](https://cds.climate.copernicus.eu/#!/home): A web interface to easily download many widely-used data sets such as ERA5, ESA land cover products, as well as many satellite-derived products!
 
-# Mentors 👨‍💻👩🏽‍💻👩‍💻👨🏽‍💻
+# Support team 👨‍💻👩🏽‍💻👩‍💻👨🏽‍💻
 
 For this Hackathon, we have put together an awesome team of mentors who will do their best to help you as much as possible in your project if you feel the need for it! Don't hesitate to contact them before, during (and even after!) the Hackathon, as they are here to help and possibly give you an outside perspective on your ideas!
 
+## Clara Henry [@henryclara](https://github.com/henryclara)
+Clara is a PhD student at the Max Planck Institute for Meteorology and the University of Tübingen in Germany. She is interested in fluid dynamics and numerical modelling, and combines her academic background in mathematics with her interest in physics and coding to [investigate features called ice rises which are found in coastal Antarctica](https://tc.copernicus.org/articles/16/3889/2022/). She uses the numerical model [Elmer/Ice](http://elmerice.elmerfem.org/) which is written in Fortran, but does most of her post-processing using Python.
+
 ## Johannes Landmann [@jlandmann](https://github.com/jlandmann)
 Johannes obtained a PhD in Glaciology from ETH Zürich for combining mass balance ensemble modeling, remote sensing, and data assimilation in a novel way. He is passionate about streaming information from different sources to obtain optimum estimates of cryosphere quantities. He is the developer of [glaciersat](https://github.com/jlandmann/glaciersat), a tool for (operational) remote sensing analysis of glaciers, and sharpens his scientific development skills now at [MeteoSwiss](https://www.meteoschweiz.admin.ch/home.html?tab=overview).  
+
+## Clara Burgard [@ClimateClara](https://github.com/ClimateClara)
 
 ## Amaury Dehecq [@adehecq](https://github.com/adehecq)
 Description, skills and area of expertise

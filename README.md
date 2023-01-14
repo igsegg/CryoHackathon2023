@@ -2,7 +2,7 @@
 
 # CryoHackathon 2023 ❄️🧊🏔️🐧
 
-Welcome to the first edition of the CryoHackathon organised by the Early Career Glaciologist Group (EGG) of the International Glaciological Society (IGS), which will run from the 17th - 19th February 2022! :partying_face:: partying_face:
+Welcome to the first edition of the CryoHackathon organised by the Early Career Glaciologist Group (EGG) of the International Glaciological Society (IGS), which will run from the 17th - 19th February 2023! :partying_face:: partying_face:
 
 The overall aim of this event is for all participants to have fun across an exciting weekend, collaborating together on exciting projects linked to the cryosphere, in a nice, inclusive and respectful atmosphere! Anyone is more than welcome to participate, and **no coding experience is required**! 😃
 
@@ -26,10 +26,10 @@ Teams of 1 to 5 participants will work on a cryosphere-related project of their 
 
 # Schedule :calendar:
 
-- **January 17th 2022** Opening of the CryoHackathon Discord channel where participants can meet and begin to form teams!
+- **January 17th 2023** Opening of the CryoHackathon Discord channel where participants can meet and begin to form teams!
 
 - **Friday February 17th** 
-  - **4:00pm UTC** Launch of the CryoHackathon 2022, beginning with a presentation by the organising team to kick things off.
+  - **4:00pm UTC** Launch of the CryoHackathon 2023, beginning with a presentation by the organising team to kick things off.
   - **4:30pm UTC** Presentation by the Sentinel Hub team, who are our partner for this event.
   - **5:00pm UTC** Teams assemble and begin working on their projects! 
 
@@ -38,7 +38,7 @@ Teams of 1 to 5 participants will work on a cryosphere-related project of their 
   - **04:00pm UTC** Afternoon coffee break with the team to get everyone ready for the Saturday night hack!
 
 - **Sunday February 19th**
-  - **4:00pm UTC** Cryohackathon 2022 closing ceremony (sad emoji?)
+  - **4:00pm UTC** Cryohackathon 2023 closing ceremony (sad emoji?)
   - **4:30pm UTC** Project presentations
   - **6:00pm UTC** Award ceremony!
 
@@ -103,6 +103,7 @@ Clara is a PhD student at the Max Planck Institute for Meteorology and the Unive
 Johannes obtained a PhD in Glaciology from ETH Zürich for combining mass balance ensemble modeling, remote sensing, and data assimilation in a novel way. He is passionate about streaming information from different sources to obtain optimum estimates of cryosphere quantities. He is the developer of [glaciersat](https://github.com/jlandmann/glaciersat), a tool for (operational) remote sensing analysis of glaciers, and sharpens his scientific development skills now at [MeteoSwiss](https://www.meteoschweiz.admin.ch/home.html?tab=overview).  
 
 ## Clara Burgard [@ClimateClara](https://github.com/ClimateClara)
+Clara is a postdoc at the Institut des Géosciences de l'Environnement of the University of Grenoble Alpes. She is interested in modelling the climate in polar regions, especially the interactions between ocean and ice. Her favourite cryospheric elements are therefore sea ice and ice shelves. She is used to handling large datasets from climate models, using [cdo](https://code.mpimet.mpg.de/projects/cdo/wiki/Cdo#Documentation) and [xarray](https://xarray.pydata.org), and has also worked with satellite datasets and reanalyses. In her PhD and her postdoc, she has built two python packages: a tool to convert sea-ice simulations to brightness temperatures ([ARC3O](https://github.com/ClimateClara/arc3o)) and a collection of the most commonly used basal melt parameterisations for Antarctic ice shelves ([multimelt](https://github.com/ClimateClara/multimelt)).
 
 ## Amaury Dehecq [@adehecq](https://github.com/adehecq)
 Description, skills and area of expertise

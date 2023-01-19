@@ -1,5 +1,7 @@
 <img src="https://github.com/igsegg/CryoHackathon2022/blob/main/data/egg-logo.png" alt="igs-egg-logo" height="130"/> <img src="https://github.com/igsegg/CryoHackathon2022/blob/main/data/sentinelhub-logo.png" alt="sentinelhub-logo" height="130"/>
 
+<img src="https://github.com/igsegg/CryoHackathon2022/blob/main/data/cryohackathon_banner_blue.png" alt="igs-egg-logo" height="130"/>
+
 # CryoHackathon 2023 ❄️🧊🏔️🐧
 
 Welcome to the first edition of the CryoHackathon organised by the Early Career Glaciologist Group (EGG) of the International Glaciological Society (IGS), which will run from the 17th - 19th February 2023! :partying_face:: partying_face:
@@ -104,9 +106,6 @@ Johannes obtained a PhD in Glaciology from ETH Zürich for combining mass balanc
 
 ## Clara Burgard [@ClimateClara](https://github.com/ClimateClara)
 Clara is a postdoc at the Institut des Géosciences de l'Environnement of the University of Grenoble Alpes. She is interested in modelling the climate in polar regions, especially the interactions between ocean and ice. Her favourite cryospheric elements are therefore sea ice and ice shelves. She is used to handling large datasets from climate models, using [cdo](https://code.mpimet.mpg.de/projects/cdo/wiki/Cdo#Documentation) and [xarray](https://xarray.pydata.org), and has also worked with satellite datasets and reanalyses. In her PhD and her postdoc, she has built two python packages: a tool to convert sea-ice simulations to brightness temperatures ([ARC3O](https://github.com/ClimateClara/arc3o)) and a collection of the most commonly used basal melt parameterisations for Antarctic ice shelves ([multimelt](https://github.com/ClimateClara/multimelt)).
-
-## Amaury Dehecq [@adehecq](https://github.com/adehecq)
-Description, skills and area of expertise
 
 ## Adrien Wehrlé [@AdrienWehrle](https://github.com/AdrienWehrle)
 Adrien is a PhD student at the University of Zurich, Switzerland where he's studying the dynamics of Greenland outlet glaciers as well as the evolution of the surface process across the ice sheet. He's into anything coding, software and algorithm development, data science and earth observation! He's also the developer of [Earthspy](https://github.com/AdrienWehrle/earthspy) so don't hesitate to ask him any question if you're considering using it!

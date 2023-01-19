@@ -110,6 +110,9 @@ Clara is a postdoc at the Institut des Géosciences de l'Environnement of the Un
 ## Adrien Wehrlé [@AdrienWehrle](https://github.com/AdrienWehrle)
 Adrien is a PhD student at the University of Zurich, Switzerland where he's studying the dynamics of Greenland outlet glaciers as well as the evolution of the surface process across the ice sheet. He's into anything coding, software and algorithm development, data science and earth observation! He's also the developer of [Earthspy](https://github.com/AdrienWehrle/earthspy) so don't hesitate to ask him any question if you're considering using it!
 
+## William D. Harcourt [@wdharcourt1](https://github.com/wdharcourt1)
+Will is a Lecturer at the University of Aberdeen (soon to be a Research Fellow!). He studies glacier change across the Arctic using Earth Observation methods and develops innovative techniques to achieve this. Will leads the creation of the APECS Polar Earth Database and is also an active member of the Svalbard Integrated Arctic Earth Observing System (SIOS) Remote Sensing Working Group (RSWG). He is particularly keen to facilitate hackathon projects that makes use of the data sets collected as part of the SIOS consortium!
+
 # Contributors ✨
 
 The CryoHackathon is organised by the [Early Glaciologists Group](https://igsegg.org/) committee of the

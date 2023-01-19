@@ -8,7 +8,7 @@ Welcome to the first edition of the CryoHackathon organised by the Early Career 
 
 The overall aim of this event is for all participants to have fun across an exciting weekend, collaborating together on exciting projects linked to the cryosphere, in a nice, inclusive and respectful atmosphere! Anyone is more than welcome to participate, and **no coding experience is required**! 😃
 
-If you are not registered yet and would like to participate, don't hesitate to [fill this form](https://www.google.com)! :writing_hand:
+If you are not registered yet and would like to participate, don't hesitate to [fill this form](https://forms.gle/bBT9DStUJ3wYrPbA6)! :writing_hand:
 
 # Table of Contents
 - [Format :computer:](#format-computer)

@@ -4,7 +4,7 @@
 
 # CryoHackathon 2023 ❄️🧊🏔️🐧
 
-Welcome to the first edition of the CryoHackathon organised by the Early Career Glaciologist Group (EGG) of the International Glaciological Society (IGS), which will run from the 17th - 19th February 2023! :partying_face: partying_face:
+Welcome to the first edition of the CryoHackathon organised by the Early Career Glaciologist Group (EGG) of the International Glaciological Society (IGS), which will run from the 17th - 19th February 2023!:partying_face: :partying_face:
 
 The overall aim of this event is for all participants to have fun across an exciting weekend, collaborating together on exciting projects linked to the cryosphere, in a nice, inclusive and respectful atmosphere! Anyone is more than welcome to participate, and **no coding experience is required**! 😃
 

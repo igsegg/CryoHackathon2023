@@ -126,12 +126,12 @@ are listed below following the [all-contributors](https://allcontributors.org) s
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/AdrienWehrle"><img src="https://avatars.githubusercontent.com/u/44843368?v=4" width="100px;" alt=""/><br /><sub><b>Adrien Wehrlé </b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/henryclara"><img src="https://avatars.githubusercontent.com/u/67099798?v=4" width="100px;" alt=""/><br /><sub><b>Clara Henry</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jlandmann"><img src="https://avatars.githubusercontent.com/u/10832560?v=4" width="100px;" alt=""/><br /><sub><b>Johannes Landmann</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://claraburgard.weebly.com"><img src="https://avatars.githubusercontent.com/u/36241583?v=4" width="100px;" alt=""/><br /><sub><b>Clara Burgard</b></sub></a></td>
+       <td align="center" valign="top" width="14.28%"><a href="https://github.com/NatB22"><img src="https://avatars.githubusercontent.com/u/113097672?v=4" width="100px;" alt=""/><br /><sub><b>Nathaniel Baurley</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/pmlefeuvre"><img src="https://avatars.githubusercontent.com/u/10058951?v=4" width="100px;" alt=""/><br /><sub><b>PiM</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://www.williamharcourt.co.uk"><img src="https://avatars.githubusercontent.com/u/48527570?v=4" width="100px;" alt=""/><br /><sub><b>William Harcourt</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/NatB22"><img src="https://avatars.githubusercontent.com/u/113097672?v=4" width="100px;" alt=""/><br /><sub><b>Nathaniel Baurley</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://claraburgard.weebly.com"><img src="https://avatars.githubusercontent.com/u/36241583?v=4" width="100px;" alt=""/><br /><sub><b>Clara Burgard</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/henryclara"><img src="https://avatars.githubusercontent.com/u/67099798?v=4" width="100px;" alt=""/><br /><sub><b>Clara Henry</b></sub></a></td>
     </tr>
   </tbody>
 </table>

@@ -52,10 +52,20 @@
       "contributions": [
         "design"
       ]
+    },
+    {
+      "login": "NatB22",
+      "name": "Nathaniel Baurley",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113097672?v=4",
+      "profile": "https://github.com/NatB22",
+      "contributions": [
+        "design"
+      ]
     }
   ],
-  "projectName": "CryoHackathon2022",
+  "projectName": "CryoHackathon2023",
   "projectOwner": "igsegg",
   "repoType": "github",
-  "repoHost": "https://github.com"
+  "repoHost": "https://github.com",
+  "commitConvention": "angular"
 }

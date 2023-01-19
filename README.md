@@ -1,6 +1,6 @@
 <img src="https://github.com/igsegg/CryoHackathon2022/blob/main/data/egg-logo.png" alt="igs-egg-logo" height="130"/> <img src="https://github.com/igsegg/CryoHackathon2022/blob/main/data/sentinelhub-logo.png" alt="sentinelhub-logo" height="130"/>
 
-<img src="https://github.com/igsegg/CryoHackathon2022/blob/main/data/cryohackathon_banner_blue.png" alt="igs-egg-logo" height="500"/>
+<img src="https://github.com/igsegg/CryoHackathon2022/blob/main/data/cryohackathon_banner_blue.png" alt="igs-egg-logo" height="400"/>
 
 # CryoHackathon 2023 ❄️🧊🏔️🐧
 

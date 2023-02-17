@@ -94,11 +94,13 @@ Sentinel Hub, our awesome partner for this first edition of the CryoHackathon, a
 
 - [Climate Copernicus Data Store](https://cds.climate.copernicus.eu/#!/home): A web interface to easily download many widely-used data sets such as ERA5, ESA land cover products, as well as many satellite-derived products!
 
-- [Antarctic Datasets](https://www.antarcticglaciers.org/antarctica-2/antarctic-datasets/): Here you can find plenty more datasets for Antarctica and descriptions for how to download the datasets etc!
+- [Antarctic Datasets](https://www.antarcticglaciers.org/antarctica-2/antarctic-datasets/): Here you can find plenty more datasets for Antarctica and descriptions for how to download the datasets etc! Datasets include velocity, bed geometry ice geometry and grounding line position.
 
 - [Climate model output](https://esgf-node.llnl.gov/search/cmip6/): Here you can find a lot of model simulations produced for the 6th phase of the Coupled Model Intercomparison Project! To access it, you need to create an account [here](https://esgf-node.llnl.gov/user/add/) It is a bit technical, here is a [guide for users](https://pcmdi.llnl.gov/CMIP6/Guide/dataUsers.html). There is also a nice python package to help downloading the data: [intake-esm](https://intake-esm.readthedocs.io/en/stable/index.html). 
 
 - [Diverse climate datasets](https://www.cen.uni-hamburg.de/en/icdc/data.html): Here you can find a large variety of observational datasets of climate variables.
+
+- [Airborne radar data](https://www.bas.ac.uk/project/nagdp/): Here you can find airborne geophysical radar data!
 
 # Support team 👨‍💻👩🏽‍💻👩‍💻👨🏽‍💻
 

@@ -96,6 +96,8 @@ Sentinel Hub, our awesome partner for this first edition of the CryoHackathon, a
 
 - [Antarctic Datasets](https://www.antarcticglaciers.org/antarctica-2/antarctic-datasets/): Here you can find plenty more datasets for Antarctica and descriptions for how to download the datasets etc!
 
+- [Climate model output](https://esgf-node.llnl.gov/search/cmip6/): Here you can find a lot of model simulations produced for the 6th phase of the Coupled Model Intercomparison Project! To access it, you need to create an account [here](https://esgf-node.llnl.gov/user/add/) It is a bit technical, here is a [guide for users](https://pcmdi.llnl.gov/CMIP6/Guide/dataUsers.html). There is also a nice python package to help downloading the data: [intake-esm](https://intake-esm.readthedocs.io/en/stable/index.html). 
+
 # Support team 👨‍💻👩🏽‍💻👩‍💻👨🏽‍💻
 
 For this Hackathon, we have put together an awesome team of mentors who will do their best to help you as much as possible in your project if you feel the need for it! Don't hesitate to contact them before, during (and even after!) the Hackathon, as they are here to help and possibly give you an outside perspective on your ideas!

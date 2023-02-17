@@ -102,6 +102,8 @@ Sentinel Hub, our awesome partner for this first edition of the CryoHackathon, a
 
 - [Airborne radar data](https://www.bas.ac.uk/project/nagdp/): Here you can find airborne geophysical radar data!
 
+- [Antarctic ice rises and ice rumples](https://data.npolar.no/dataset/9174e644-3540-44e8-b00b-c629acbf1339): Here you can find data for ice rises and ice rumples around Antarctica. These are features which buttress or hold back the flow of ice into the ocean thereby regulating the flow of ice into the ocean. You can have a look at [this paper](https://www.sciencedirect.com/science/article/pii/S0012825215300416?via%3Dihub) to understand these features better.
+
 # Support team 👨‍💻👩🏽‍💻👩‍💻👨🏽‍💻
 
 For this Hackathon, we have put together an awesome team of mentors who will do their best to help you as much as possible in your project if you feel the need for it! Don't hesitate to contact them before, during (and even after!) the Hackathon, as they are here to help and possibly give you an outside perspective on your ideas!
